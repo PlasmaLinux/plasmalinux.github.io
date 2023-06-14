@@ -98,7 +98,7 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     parent = "download"
     name = "Get a Plasma Linux Install Image"
-    url = "https://drive.google.com/drive/folders/1lVfSZLEW2MlsQOGdn4VUR_BPOi_vouio"
+    url = "https://sourceforge.net/projects/plasmalinux/files/ISO/"
     weight = 1
 
 [[menu.main]]
