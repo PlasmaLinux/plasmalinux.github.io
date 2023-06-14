@@ -93,13 +93,8 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     identifier = "download"
     name = "Download"
+    url = "page/download/"
     weight = 2
-
-[[menu.main]]
-    parent = "download"
-    name = "Get a Plasma Linux Install Image"
-    url = "https://sourceforge.net/projects/plasmalinux/files/ISO/"
-    weight = 1
 
 [[menu.main]]
     identifier = "social"
